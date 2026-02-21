@@ -15,7 +15,7 @@ This case study combines SQL data engineering and Python-based statistical analy
 
 ## Data Sources
 
-- Recorded Crime Incidents (Garda Divisions) - Data Gov IE
+- Recorded Crime Incidents (Garda Divisions) - Data CSO IE
 - County-Level Residential Rent Data - RTB/Kaggle
 
 Crime data was aggregated from quarterly to yearly totals.
