@@ -44,7 +44,7 @@ Rent data was harmonized to match Garda regional structures.
 - Some rural regions experienced decreases
 - Urban centers showed moderate increases
 
-(Insert crime growth screenshot here)
+![Crime Growth](images/crime_growth_table.png)
 
 ### Correlation Analysis
 
@@ -56,7 +56,7 @@ This indicates a moderate positive relationship between rent levels and crime.
 
 However, this likely reflects urban density effects rather than direct causation.
 
-(Insert scatter plot image here)
+![Scatter Plot](images/scatter_plot.png)
 
 ## Interpretation
 
