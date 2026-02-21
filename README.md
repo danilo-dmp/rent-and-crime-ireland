@@ -36,7 +36,7 @@ Rent data was harmonized to match Garda regional structures.
 - Strong upward trend nationally
 - Commuter regions also saw sustained increases
 
-![Rent Growth] (images/rent_growth_table.png)
+![Rent Growth](images/rent_growth_table.png)
 
 ### Crime Growth (2020–2025)
 
