@@ -1,4 +1,4 @@
-# Ireland Rent vs Crime Analysis (2020–2025)
+# 🇮🇪  Ireland Rent vs Crime Analysis (2020–2025)
 ## Project Overview
 
 This project investigates the relationship between residential rent prices and recorded crime levels across Irish regions between 2020 and 2025.
@@ -36,7 +36,7 @@ Rent data was harmonized to match Garda regional structures.
 - Strong upward trend nationally
 - Commuter regions also saw sustained increases
 
-(Insert rent growth screenshot here)
+![Rent Growth] (images/rent_growth_table.png)
 
 ### Crime Growth (2020–2025)
 
